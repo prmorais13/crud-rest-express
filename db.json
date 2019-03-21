@@ -1,0 +1,12 @@
+{
+  "produtos": [
+    {
+      "id": 0,
+      "nome": "Notebook"
+    },
+    {
+      "id": 1,
+      "nome": "Desktop"
+    }
+  ]
+}
